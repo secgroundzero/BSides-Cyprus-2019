@@ -1,2 +1,9 @@
 # BSides-Cyprus-2019
-BSides Cyprus - Presentation Material
+
+## Talk Title - Orchestrating Resilient Red Team Infrastructure
+
+Yiannis Ioannides - @sec_groundzero
+
+
+
+
